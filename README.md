@@ -1,5 +1,11 @@
 # Weather-System
-A Dynamic Weather System created in UE5 using Blueprints.
+A Dynamic Weather System.
 
-## System Components
+## Features
 - Rain
+
+## Technologies
+- Unreal Engine 5
+- Blueprints
+- Material Blueprints
+- Niagara System
