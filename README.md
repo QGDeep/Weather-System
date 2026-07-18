@@ -4,7 +4,7 @@ A Dynamic Weather System.
 ## Features
 - Dynamic Rain
 - Dynamic Puddles
-- Custom Water Material with ripple effect and light refraction
+- Custom Water Material with ripple effect and color changes
 
 ## Technologies
 - Unreal Engine 5
